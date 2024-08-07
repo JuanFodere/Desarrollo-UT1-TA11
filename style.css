@@ -1,0 +1,15 @@
+.impar{
+    font-family: Verdana, sans-serif;
+    background-color: pink;
+}
+#segundo{
+    color: blue;
+    font-size: 36px;
+}
+#tercero{
+    font-size: 24px;
+}
+#cuarto{
+    background-color: aquamarine;
+    font-size: 24px;
+}
